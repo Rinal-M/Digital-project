@@ -5,9 +5,6 @@
 using namespace std;
 #include<vector>
 #include <map>
-<<<<<<< HEAD
-map<int, int>::iterator it;
-=======
 #include<string>
 map<int, int>::iterator it;
 bool flag;
